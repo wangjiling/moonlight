@@ -5,7 +5,7 @@ Moonlight 是一个使用 nodejs 编写的博客程序，使用了 [express](htt
 
 Moonlight 的功能很简单。去除了自己用不到的标签、分类、友情链接功能，仅有文章、页面、评论功能。
 
-目前还在完善中，演示地址： [http://vincent.com](http://vincent.com)
+目前还在完善中，演示地址： [http://wangjiling.com](http://wangjiling.com)
 
 ##安装
 

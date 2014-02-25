@@ -332,7 +332,7 @@ exports.install = function (req, res, next) {
                     post_slug: post.slug,
                     author: "vincent",
                     email: "vincentwangjiling@gmail.com",
-                    url: "http://vincent.com",
+                    url: "http://wangjiling.com",
                     content: "欢迎使用Moonlight，欢迎与我交流Nodejs相关技术、",
                     created: moment().format()
                   };
